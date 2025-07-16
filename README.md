@@ -37,9 +37,6 @@ A full-stack AI-powered chatbot application for college student assistance, buil
 ### Installation
 
 1. Clone the repository and navigate to the project folder:
-```bash
-cd overlord
-```
 
 2. Install backend dependencies:
 ```bash
