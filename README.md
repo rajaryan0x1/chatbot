@@ -140,7 +140,7 @@ The application is designed to be easily deployable:
 
 ## Future Enhancements
 
-- Integration with actual AI services (OpenAI, Google Gemini, etc.)
+- ~~Integration with actual AI services (OpenAI, Google Gemini, etc.)~~
 - User authentication and session management
 - Database integration for conversation history
 - File upload capabilities
